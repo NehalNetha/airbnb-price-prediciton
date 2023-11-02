@@ -85,8 +85,9 @@ model_price.fit(X_train_pr, y_train_pr)
 
 with tab2:
     st.title("1. Get better price for your listings")
+    st.subheader("If you want to start listing your properties on the airbnb, and want to know what things get that particular pricing?, you can do that by entering the price that you want below")
 
-    input = st.number_input("Enther the Price")
+    input = st.number_input("Enter the Price")
     but_predict = st.button("predict")
     if but_predict:
         prediction = model.predict([[input]])
