@@ -1,0 +1,401 @@
+title,room_type,name,location/city,location/state,location/country,location/lat,location/lng,capacity/bathrooms,capacity/bedrooms,capacity/beds,capacity/person,reviews/count,cancel_policy,pricing
+Condo in Pune,entire_home,Arcadia : Harmonious and virtuous.,Pune,Maharashtra,India,18.533695,73.898361,1.0,1,2,4,135,firm,10908.369999999999
+Room in Pune,private_room,Room in a lovely terraced home,Pune,Maharashtra,India,18.53991,73.88921,1.0,1,1,2,185,moderate,2747.91
+Condo in Pune,entire_home,★Central Residence★Chic & Luxurious 2BHK with View,Pune,Maharashtra,India,18.54966,73.91546,2.0,2,3,5,117,firm,5995.44
+Condo in Pune,entire_home,Little Haven,Pune,Maharashtra,India,18.534022,73.8985072,1.0,1,1,2,44,moderate,7327.759999999999
+Guest suite in Pune,entire_home,Anand Guha (Laxmi Vilas),Pune,Maharashtra,India,18.53201,73.88115,1.0,1,1,2,28,moderate,3996.96
+Vacation home in Maharashtra,entire_home,Bougainvillea A Sassy 3BHK Penthouse in Kalyani N.,Maharashtra,Maharashtra,India,18.54818,73.90156,3.5,3,6,6,46,firm,9992.4
+Room in Pune,private_room,Little Flower,Pune,Maharashtra,India,18.56896,73.91674,1.0,1,1,2,138,moderate,2081.75
+Place to stay in Pune,entire_home,Le Patio - AC bedroom with kitchen & jacuzzi in KP,Pune,Maharashtra,India,18.53263,73.89757,1.0,1,1,3,295,moderate,8993.16
+Condo in पुणे,entire_home,Class & Comfort amidst greenary,पुणे,Maharashtra,India,18.50032092981091,73.77775504171757,2.0,2,2,4,21,firm,13156.66
+Condo in Pune,entire_home,"A Quiet, Cosy Studio Apartment",Pune,Maharashtra,India,18.54461,73.78639,1.5,1,2,3,302,moderate,3414.0699999999997
+Apartment in Pune,entire_home,FLY :  lux Rooftop Apartment - By Ellochre,Pune,Maharashtra,India,18.56611,73.91161,2.0,2,2,5,112,moderate,10158.939999999999
+Guest suite in Pune,entire_home,A quiet studio by the edge of a garden,Pune,Maharashtra,India,18.54815,73.81804,1.5,1,1,2,125,flexible,5662.36
+Condo in Pune,entire_home,NestPrivate1BHK 32fl India's Most Awarded Township,Pune,Maharashtra,India,18.51816,73.94529,1.0,1,2,4,82,moderate,6411.79
+Apartment in Pune,entire_home,Riverview | Clean | Private | Smart TV | AC,Pune,Maharashtra,India,18.541602694282204,73.89886364902016,2.0,2,2,6,14,strict-grace,14072.63
+Apartment in Pune,entire_home,Platinum,Pune,Maharashtra,India,18.56428,73.78226,2.0,2,2,4,125,moderate,6328.5199999999995
+Guest suite in Pune,entire_home,R06 - Indipendent garden view balcony room in Kp.,Pune,Maharashtra,India,18.53169,73.897,1.0,1,1,3,173,moderate,3913.6899999999996
+Condo in Pune,entire_home,Emerald 2BHK with AC bedrooms,Pune,Maharashtra,India,18.56407,73.78507,2.0,2,2,4,51,moderate,5662.36
+Guest suite in Pune,entire_home,*Zen Room With Secret  Garden & Open Air Jacuzzi*,Pune,Maharashtra,India,18.53235,73.89585,1.0,1,1,2,285,moderate,7993.92
+Apartment in Pune,entire_home,Casa - By Great Impressions,Pune,Maharashtra,India,18.56469,73.90764,1.0,1,1,4,95,moderate,6828.139999999999
+Apartment in Pune,entire_home,"Beautiful Clean Home in Aundh, Pune",Pune,Maharashtra,India,18.55066,73.81048,2.0,2,3,5,123,strict-grace,15987.84
+Room in Pune,private_room,Peaceful room in a lovely terraced home,Pune,Maharashtra,India,18.5402,73.89038,1.0,1,1,2,163,moderate,2414.83
+Apartment in Pune,entire_home,Fauna : By Ellochre Studios,Pune,Maharashtra,India,18.550101773007892,73.81896190116161,2.0,1,1,3,13,moderate,6828.139999999999
+Condo in Pune,entire_home,Beautiful and serene 3BHK,Pune,Maharashtra,India,18.50825,73.82288,3.0,3,3,6,56,firm,7993.92
+Home in Pune,entire_home,Millenia:2BHK Duplex near Airport,Pune,Maharashtra,India,18.56488,73.96247,2.0,2,2,4,17,firm,9576.05
+Condo in Pune,entire_home,Nest2.31st floor view Private1BHK Condo with Pool.,Pune,Maharashtra,India,18.518977185425822,73.94621897488832,1.0,1,2,3,32,flexible,5662.36
+Apartment in Pune,entire_home,Sam's Apt: Elegant 3BHK on FC Rd,Pune,Maharashtra,India,18.51989,73.83932,2.5,3,4,8,12,firm,15987.84
+Condo in Pune,entire_home,SAPPHIRE A beautiful 2BHK with utmost comfort,Pune,Maharashtra,India,18.56764,73.78153,2.0,2,2,4,78,moderate,5495.82
+Room in Pune,private_room,Oasis of Trees & Tranquility,Pune,Maharashtra,India,18.54522,73.81828,1.0,1,1,1,104,firm,6828.139999999999
+Condo in Pune,entire_home,Cozy Glade : Serene and Surrounded by nature,Pune,Maharashtra,India,18.533810711747016,73.89850009693289,1.0,1,1,3,50,moderate,7077.95
+Apartment in Pune,entire_home,Amethyst,Pune,Maharashtra,India,18.52089,73.7745,2.0,2,2,4,6,moderate,5912.17
+Apartment in Pune,entire_home,luxurious Studio Amanorapark Pune,Pune,Maharashtra,India,18.519820082802262,73.93509998215721,1.0,1,2,4,9,flexible,6744.87
+Room in Pune,private_room,Cozy home in heart of kothrud,Pune,Maharashtra,India,18.5108,73.8118,1.5,1,1,3,99,moderate,3414.0699999999997
+Room in Pune,private_room,"(3) B-9, Panorama, Valentina,  Koregaon Park, Pune",Pune,Maharashtra,India,18.5394686,73.8953468,1.0,1,1,2,15,flexible,3580.6099999999997
+Room in Pune,private_room,Biztravel ready #1,Pune,Maharashtra,India,18.51445,73.82849,1.0,1,4,2,29,flexible,5579.09
+Condo in Pune,entire_home,1 BHK centrally located serene appartment in Pune.,Pune,Maharashtra,India,18.51233,73.82065,1.0,1,3,3,27,moderate,3830.4199999999996
+Room in Pune,private_room,Oasis of Trees near Iyengar Yoga,Pune,Maharashtra,India,18.5449,73.81963,1.5,1,1,2,35,firm,8826.619999999999
+Apartment in Pimpri-Chinchwad,entire_home,Drives the blues away,Pimpri-Chinchwad,Maharashtra,India,18.6538918,73.7614837,2.0,2,2,4,4,moderate,6661.599999999999
+Guest suite in Pune,entire_home,2 bedrooms and a terrace,Pune,Maharashtra,India,18.53265,73.89819,2.0,2,2,4,32,moderate,9992.4
+Home in Pune,entire_home,Peaceful 2 BHK Row House in Koregaon Park,Pune,Maharashtra,India,18.53196697964787,73.89772263502321,2.0,2,2,5,16,moderate,9159.699999999999
+Apartment in Pune,entire_home,The Arch: Private Studio Room in Koregaon Park,Pune,Maharashtra,India,18.53843132555352,73.90210245255504,1.0,1,1,2,4,firm,5079.469999999999
+Room in Pune,private_room,Cozy room near Osho International,Pune,Maharashtra,India,18.53953,73.88858,1.0,1,1,2,93,moderate,2664.64
+Apartment in Pune,entire_home,Entire brand-new apartment for rental,Pune,Maharashtra,India,18.56624,73.90764,2.0,2,2,5,40,flexible,10242.21
+Room in Pune,private_room,"(1) B-9, Panorama, Valentina,  Koregaon Park, Pune",Pune,Maharashtra,India,18.5394686,73.8953468,1.0,1,3,4,12,flexible,4080.23
+Home in Pune,entire_home,Cosy and Quiet Nook Amidst Greenery,Pune,Maharashtra,India,18.54484,73.78688,1.5,1,1,4,308,moderate,3913.6899999999996
+Room in Pune,private_room,GoodHome,Pune,Maharashtra,India,18.5263427,73.8459437,1.0,1,1,2,8,moderate,4663.12
+Place to stay in Pune,private_room,Green Garden Room,Pune,Maharashtra,India,18.53289,73.89712,1.0,1,1,3,213,moderate,5995.44
+Condo in Pune,entire_home,1BHK on Law College Rd with Wi-Fi Firestick,Pune,Maharashtra,India,18.513404044194512,73.82955059409142,1.0,1,1,3,24,flexible,6578.33
+Apartment in Pune,entire_home,Cozy Apartment in the heart of Pune,Pune,Maharashtra,India,18.5375,73.89805,1.0,1,2,3,108,moderate,7411.03
+Room in Pune,private_room,Amazingly cool and comfortable place !!!,Pune,Maharashtra,India,18.57031,73.91068,1.0,1,1,2,242,flexible,3580.6099999999997
+Condo in Pune,entire_home,R05 - Stylish AC studio with kitchen in KP.,Pune,Maharashtra,India,18.53191,73.897,1.0,1,1,3,304,moderate,4330.04
+Apartment in Pune,entire_home,"Cozy Studio with Premium Interiors-WiFi,AC,SmartTv",Pune,Maharashtra,India,18.531259880563415,73.91333811231445,1.0,1,1,2,19,firm,6161.98
+Room in पुणे,private_room,magarpatta hadapsar nearby home opp vaibhav theatr,पुणे,Maharashtra,India,18.5026,73.93104,1.0,1,1,1,22,flexible,1998.48
+Apartment in Pune,entire_home,Chic & Luxurious 3BHK with View Near Amanora Mall,Pune,Maharashtra,India,18.5135259,73.9325216,3.0,3,3,6,20,flexible,16570.73
+Condo in Pune,entire_home,Apartment @ Balewadi High Street,Pune,Maharashtra,India,18.569846777678944,73.77211503545395,3.5,3,3,8,43,flexible,7577.57
+Room in Pune,private_room,SANITIZED ★☞ The best place to stay in Pune,Pune,Maharashtra,India,18.53906,73.89483,1.0,1,1,3,188,moderate,3580.6099999999997
+Condo in Pune,entire_home,Furnished apartment @ Balewadi high street,Pune,Maharashtra,India,18.57015,73.77184,2.0,2,3,8,34,flexible,7327.759999999999
+Apartment in Pune,entire_home,"Boutique Room in Koregaon Park. WiFi, Ac, Smart Tv",Pune,Maharashtra,India,18.54134,73.89884,1.0,1,1,2,7,firm,5079.469999999999
+Apartment in Pune,entire_home,"""CORAL"" 1BHk AC Bedroom",Pune,Maharashtra,India,18.570932150117088,73.78051624098471,1.0,1,1,2,0,moderate,4579.849999999999
+Cabin in Pune,entire_home,The Glass House- Pune city views,Pune,Maharashtra,India,18.53855009342837,73.77849709242582,1.0,1,1,4,26,flexible,10158.939999999999
+Room in Pune,private_room,Pune Home with a View,Pune,Maharashtra,India,18.56895,73.91691,1.0,1,1,2,82,firm,2747.91
+Condo in Pune,entire_home,Full Private 1 BHK next to Airport,Pune,Maharashtra,India,18.57335,73.91446,2.0,1,2,4,61,moderate,6661.599999999999
+Apartment in Pune,entire_home,Lotus Luxe Suite in KP withPatio/Pune,Pune,Maharashtra,India,18.53752,73.9,1.0,1,3,4,21,firm,12990.119999999999
+Villa in Kasarsai,entire_home,Caasa Tranquilla with Pool near Kasarsai Dam,Kasarsai,Maharashtra,India,18.6319919344305,73.64880457520485,3.5,3,4,16,36,flexible,25064.27
+Apartment in Pune,entire_home,A Resort like Experience. Indulge in Luxury.,Pune,Maharashtra,India,18.50351723578408,73.76572332513122,3.5,3,3,6,11,moderate,9326.24
+Home in Pune,entire_home,Sam’s Villa: Gorgeously done 4BHK bungalow in KLN,Pune,Maharashtra,India,18.54843822174649,73.89903299176537,3.0,4,4,10,12,firm,25064.27
+Condo in Pune,entire_home,Executive studio apartment stay,Pune,Maharashtra,India,18.578411734615237,73.76301992933156,1.5,1,1,2,3,flexible,4246.7699999999995
+Condo in Pune,entire_home,Athena: Luxe Stay near Pune Airport | 500m Away,Pune,Maharashtra,India,18.57569661488816,73.90707222590335,4.0,4,4,10,13,strict-grace,22982.52
+Home in Pune,entire_home,Laxmi Homes,Pune,Maharashtra,India,18.51103,73.87081,1.0,1,1,3,46,moderate,5662.36
+Farm stay in Pune,entire_home,Star Walker,Pune,Maharashtra,India,18.54187,73.773,1.0,1,1,2,4,flexible,13656.279999999999
+Condo in Pimpri-Chinchwad,entire_home,1BHK #301 Feel At Home Netflix & High Speed Net,Pimpri-Chinchwad,Maharashtra,India,18.60803255477615,73.79141285447038,1.0,1,1,2,5,strict-grace,3164.2599999999998
+Apartment in Pune,entire_home,Atwood Studio Apartment,Pune,Maharashtra,India,18.53248,73.91308,1.0,1,1,2,11,firm,3414.0699999999997
+Condo in Pune,entire_home,Urban Oasis : 3Bhk Sunset View Retreat,Pune,Maharashtra,India,18.487841062347115,73.89679662733757,3.0,3,3,6,0,firm,10908.369999999999
+Condo in Pune,entire_home,Classic Studio Suite (1 RK) - by PRR,Pune,Maharashtra,India,18.5187,73.94771,1.0,1,2,3,75,moderate,5579.09
+Condo in Pimpri-Chinchwad,entire_home,SKYLINE: Large modern APT w/ balcony and Projector,Pimpri-Chinchwad,Maharashtra,India,18.60727,73.80289,3.0,3,7,8,92,firm,12740.31
+Room in Pune,private_room,Beautiful private room in a 3bhk penthouse.,Pune,Maharashtra,India,18.508212243894956,73.79043962806463,1.5,1,1,1,16,moderate,2498.1
+Apartment in Pune,entire_home,Homely Hideaway,Pune,Maharashtra,India,18.533840030776265,73.89848938454625,1.5,1,1,2,22,flexible,11407.99
+Apartment in Pune,entire_home,Prime Homestay @ Senapati Bapat Road (Entire 1BHK),Pune,Maharashtra,India,18.53482,73.82778,1.0,1,1,3,96,flexible,5329.28
+Apartment in Pune,entire_home,"Koregaon Park Oasis: Studio with Smart TV,WiFi,AC",Pune,Maharashtra,India,18.539345949613363,73.89843258451637,1.0,1,1,2,0,firm,5162.74
+Loft in Nerul,entire_home,Plush Penthouse With Private Plunge Pool,Nerul,Goa,India,15.51197,73.78719,1.5,1,1,2,136,firm,27395.829999999998
+Tiny home in Canacona,entire_home,"Abidal Resort, Colomb bay, Patnem beach #1",Canacona,Goa,India,15.0014236,74.0297138,1.0,1,1,2,83,super_strict_30,14405.71
+Condo in Calangute,entire_home,"Beach by day, dream by night - enjoy Papaya!",Calangute,Goa,India,15.55236,73.75525,1.0,1,1,3,116,flexible,8493.539999999999
+Cottage in Calangute,entire_home,Serendipity Cottage in Calangute-Baga.,Calangute,Goa,India,15.55617,73.76024,1.0,1,1,3,49,strict-grace,13656.279999999999
+Villa in Assagao,entire_home,Jimmy's Villa 4BHK w/Pool Assagaon/Anjuna,Assagao,Goa,India,15.58866,73.76311,4.0,4,4,12,54,firm,59288.24
+Hotel in Calangute,private_room,•Cozy Room in Baga•Beach 2 mins!,Calangute,Goa,India,15.5597937609788,73.7538496032357,1.0,1,1,2,43,flexible,3414.0699999999997
+Home in North Goa,entire_home,Novels: Rooftop studio w. pool,North Goa,Goa,India,15.5747571970741,73.7953078844569,1.0,1,1,3,21,moderate,5828.9
+Hotel in Vagator,private_room,Oia Goa - Private Pool,Vagator,Goa,India,15.5946893961491,73.7376188859344,1.5,1,1,2,9,firm,20567.69
+Place to stay in Agonda,private_room,Goa Cottages Agonda -Side Sea View Cottage with AC,Agonda,Goa,India,15.048809,73.984855,1.0,1,1,2,117,strict-grace,21983.28
+Home in Calangute,entire_home,Beach side private Villa with Pool in Calangute.,Calangute,Goa,India,15.53538,73.75896,5.5,4,5,10,92,strict-grace,68531.20999999999
+Apartment in Siolim,entire_home,Luxury Studio duplex apartment,Siolim,Goa,India,15.62147,73.76833,1.0,1,2,4,35,strict-grace,7411.03
+Bungalow in Loutulim,entire_home,IKSHAA® : LUXURY VILLA W PRIVATE POOL,Loutulim,Goa,India,15.33642,73.97645,2.0,3,4,8,159,strict-grace,24647.92
+Home in Anjuna,entire_home,Luxury Lakeview Villa with Pool & Garden @ Anjuna,Anjuna,Goa,India,15.57487,73.76013,2.0,2,4,5,65,moderate,25147.539999999997
+Guest suite in Calangute ,entire_home,Cosy Cottage in Calangute,Calangute ,Goa,India,15.55319,73.75851,1.0,1,2,4,193,strict-grace,10242.21
+Home in Anjuna,entire_home,"Sunset View 3BHK, Walkable to Anjuna Beach",Anjuna,Goa,India,15.5774546572935,73.7409460346795,2.0,3,3,7,14,firm,24148.3
+Guesthouse in North Goa,private_room,Birdsong Abode -  Rustic Room - Baga/Calangute,North Goa,Goa,India,15.55014,73.76578,1.0,1,1,2,93,strict-grace,4746.389999999999
+Apartment in Calangute,entire_home,"Luxury Suite @ Baga Beach,Calangute/ Apt-247 GOA",Calangute,Goa,India,15.5534364404409,73.7600934699349,1.0,1,2,4,35,moderate,12740.31
+Villa in Reis Magos,entire_home,1BHK Villa with private pool in  North Goa,Reis Magos,Goa,India,15.50739,73.81105,2.0,1,2,4,25,moderate,23981.76
+Guesthouse in Majorda,private_room,Beach View Room,Majorda,Goa,India,15.3093422048653,73.9025895659789,1.0,1,1,2,18,moderate,10242.21
+Apartment in Vagator,entire_home,"Sky Villa, Private Terrace Garden & Common Pool",Vagator,Goa,India,15.59949,73.74048,2.5,2,2,4,24,strict-grace,18236.129999999997
+Guesthouse in Anjuna,private_room,Premium Room At Xavier's,Anjuna,Goa,India,15.57002,73.74579,1.0,1,1,2,66,moderate,4246.7699999999995
+Loft in Nerul,entire_home,Striking Penthouse With Private Plunge Pool,Nerul,Goa,India,15.5135,73.7867,1.5,1,1,2,149,firm,27395.829999999998
+Condo in Calangute,entire_home,Happy and cosy near the beach - enjoy Chikoo!,Calangute,Goa,India,15.55236,73.75525,1.0,1,1,3,78,flexible,8993.16
+Guesthouse in North Goa,entire_home,Tranquility Cottage in Calangute / Baga.,North Goa,Goa,India,15.5552,73.75968,1.0,1,1,3,215,strict-grace,11407.99
+Cottage in Canacona,entire_home,Goa Cottages Agonda - Beach Front Cottage with AC,Canacona,Goa,India,15.04811,73.98585,1.0,1,1,2,15,strict-grace,20984.039999999997
+Boutique hotel in Calangute,private_room,•Cozy Room in heart of Baga•,Calangute,Goa,India,15.56028,73.75463,1.0,1,1,2,35,flexible,3996.96
+Apartment in Baga,entire_home,Humble Abode by Laze Around Us,Baga,Goa,India,15.5564911966257,73.7549713515559,1.0,1,1,3,161,strict-grace,6411.79
+Home in Vagator,entire_home,The Fern: Artsy 1BHK | close to the beach|Fully AC,Vagator,Goa,India,15.60055,73.74104,1.0,1,1,3,128,strict-grace,8909.89
+Home in Pale,entire_home,Azul Beach Villa,Pale,Goa,India,15.36706,73.87719,3.5,3,4,4,145,firm,20567.69
+Cottage in Issorcim,entire_home,AC Cottage With Swimming Pool,Issorcim,Goa,India,15.37281,73.85863,1.0,1,1,3,117,moderate,7993.92
+Resort in Patnem Beach,private_room,"★ Luxury On The Beach ★ Sea, Nature & Relax,AC hut",Patnem Beach,Goa,India,14.9996,74.03166,1.0,1,1,3,25,strict-grace,17403.43
+Room in Canacona,private_room,Goa Cottages Agonda - Partial Sea View Cottage,Canacona,Goa,India,15.04799,73.98492,1.0,1,1,2,53,strict-grace,14988.599999999999
+Guesthouse in Calangute,private_room,Casa de Laura,Calangute,Goa,India,15.5333,73.76769,1.0,1,1,2,94,flexible,3414.0699999999997
+Apartment in Chapora,entire_home,1 BHK with Sea View & Spacious Balcony,Chapora,Goa,India,15.60168,73.74297,1.0,1,1,3,133,flexible,8660.08
+Condo in Marna,entire_home,Lovely 2 BHK Glass house with a pool,Marna,Goa,India,15.61654,73.78743,2.0,2,3,5,46,moderate,19901.53
+Room in Anjuna,private_room,Cabin with garden and pool,Anjuna,Goa,India,15.5994433198026,73.756588821657,1.0,1,1,2,3,flexible,2498.1
+Hotel room in Navelim,hotel_room,AC Studio Room With Swimming pool 1 (Palm Shades Springs),Navelim,Goa,India,15.25457,73.92541,1.0,1,2,2,138,moderate,2831.18
+Place to stay in Vagator,private_room,Garden view cabin with pool,Vagator,Goa,India,15.5987395284078,73.7548727307368,1.0,1,1,2,2,flexible,2664.64
+Apartment in North Goa,entire_home,"Fig House:In-House Cafe & Pool, Anjuna-Chapora Bay",North Goa,Goa,India,15.61512,73.75679,1.0,1,1,3,427,moderate,8576.81
+Room in Calangute,private_room,Five minutes walk Calangute beach- Deluxe Double,Calangute,Goa,India,15.53717,73.76332,1.0,1,1,2,0,strict-grace,4829.66
+Cottage in Issorcim,entire_home,AC Cottage With Swimming Pool,Issorcim,Goa,India,15.37187,73.85849,1.0,1,1,3,81,moderate,7993.92
+Room in Anjuna,private_room,Twin bed cabin with garden & pool,Anjuna,Goa,India,15.5983262482961,73.7561298161745,1.0,1,2,2,3,flexible,2664.64
+Boutique hotel in Canacona,private_room,Spacious Goan-style sea-facing Room,Canacona,Goa,India,14.999073,74.028587,1.0,1,1,2,5,firm,12407.23
+Guesthouse in Majorda,private_room,Beach View Room,Majorda,Goa,India,15.3085700100649,73.9017498895291,1.0,1,1,2,28,moderate,10242.21
+Apartment in Mandrem,entire_home,Evarista studio 1,Mandrem,Goa,India,15.66831,73.71459,1.0,0,1,2,94,flexible,3996.96
+Villa in Canacona,entire_home,Forest Holiday Homes(Beach House),Canacona,Goa,India,15.00038,74.02885,2.0,1,1,4,36,flexible,14822.06
+Resort in Patnem Beach,private_room,"AC Garden Hut ★ Sea, Nature & Relax ★ Patnem Beach",Patnem Beach,Goa,India,14.99787,74.03403,1.0,1,1,3,4,strict-grace,7327.759999999999
+Boutique hotel in North Goa,private_room,"Cozy Room in Baga•
+2 mins away from the beach!",North Goa,Goa,India,15.5524798836407,73.7583999708295,1.0,1,1,2,44,flexible,2997.72
+heritage hotel in Panaji,private_room,Private Room in a Heritage Inn in Fontainhas,Panaji,Goa,India,15.4908,73.82858,1.0,1,1,2,17,moderate,2914.45
+Condo in Dabolim,entire_home,Panoramic Sea & Island view 2BHK Apartment,Dabolim,Goa,India,15.3990650443648,73.854257427156,2.0,2,2,4,76,firm,15571.49
+Resort in Canacona,private_room,Beach Side Resort | Air-con | Garden Cottage,Canacona,Goa,India,15.03514,73.98885,1.0,1,1,2,58,strict-grace,10408.75
+Apartment in Calangute,entire_home,"03-Elegant 2bed fully furnished Apartment Baga,Goa",Calangute,Goa,India,15.5507491263558,73.7540072305293,2.0,2,2,6,2,firm,14572.25
+Bungalow in Vagator,entire_home,"Sol Sureno, Assagao - Luxury Private Bungalow",Vagator,Goa,India,15.60502,73.75305,5.0,4,5,12,108,strict-grace,79939.2
+Hotel in Calangute,private_room,Treehouse MARS- Coolest Beach Cottage Calangute,Calangute,Goa,India,15.53578,73.75972,1.0,1,1,2,16,moderate,10991.64
+Room in Cansaulim,private_room,Avy's Studio Guest Room with relaxing ambience,Cansaulim,Goa,India,15.3483406684517,73.893949833939,1.0,1,1,2,89,flexible,3330.7999999999997
+Villa in Raia,entire_home,Quinta Da Santana Luxury Villa : In-house kitchen,Raia,Goa,India,15.32822,73.97523,1.0,1,1,2,53,firm,9159.699999999999
+Villa in Arambol,entire_home,Kiki Villa 100mtr from the beach,Arambol,Goa,India,15.6909131422755,73.7021462830505,2.0,2,4,6,17,flexible,10991.64
+Hut in Agonda,entire_home,2LUXURY FRONT SEA VIEW HUT WITH AC ON AGONDA BEACH,Agonda,Goa,India,15.0425,73.98798,1.0,0,1,2,15,super_strict_60,26313.32
+Guest suite in Canacona,private_room,Casa Galgibaga - Pink Stone Room,Canacona,Goa,India,14.96519,74.0482,1.0,1,1,2,22,moderate,12573.769999999999
+Guesthouse in Baga,private_room,Serenity Abode - A calm space in Calangute-Baga.,Baga,Goa,India,15.55412,73.75903,1.0,1,1,2,72,strict-grace,6828.139999999999
+Bungalow in Siolim,entire_home,Portuguese Villa with PRIVATE POOL  in  North Goa,Siolim,Goa,India,15.61192,73.76885,5.0,5,5,10,158,strict-grace,30809.899999999998
+Guesthouse in Vagator,private_room,Cocolawnstudios_goa,Vagator,Goa,India,15.59635,73.73497,1.0,1,1,2,12,flexible,5662.36
+Hotel in Baga,private_room,Cozy room in Baga•beach 2 mins•,Baga,Goa,India,15.558539275982,73.7550763785839,1.0,1,1,2,39,flexible,2997.72
+Treehouse in Vagator,entire_home,"Wow Romantic Tree House, Anjuna-Vagator, North Goa",Vagator,Goa,India,15.59808,73.75748,2.0,1,1,2,53,strict-grace,29644.12
+Cottage in Calangute,entire_home,Dream Weaver Cottage in Calangute/Baga.,Calangute,Goa,India,15.55338,73.75834,1.0,1,1,3,117,strict-grace,6828.139999999999
+Guesthouse in Candolim,private_room,Warm cozy room with Beach access,Candolim,Goa,India,15.51313,73.76748,1.0,1,1,3,111,strict-grace,4579.849999999999
+Apartment in Colva,entire_home,"Stylish 2Ac  Appt, Pool,400 mtrs fm Colva Beach",Colva,Goa,India,15.28133,73.91519,1.0,1,2,3,218,moderate,6828.139999999999
+Vacation home in Anjuna,entire_home,1 BHK-Seaview from infinity pool &spacious balcony,Anjuna,Goa,India,15.60254,73.74294,1.5,1,1,3,86,flexible,8660.08
+Condo in Canacona,entire_home,Thalasa-beautiful 1bhk@Palolem @Walkto Beach,Canacona,Goa,India,15.0072,74.03177,1.0,1,2,3,22,moderate,9659.32
+Place to stay in Candolim,private_room,Casa Legend Suites  · Luxurious 2 Double Bed Suite near Candolim Beach,Candolim,Goa,India,15.5154941540814,73.770226755358,2.0,2,2,4,120,strict-grace,10158.939999999999
+Hotel room in Navelim,hotel_room,1BHK AC Room With Swimming pool,Navelim,Goa,India,15.25535,73.9238,1.0,1,2,3,85,moderate,3580.6099999999997
+Cottage in Goa,entire_home,"Casa Branca, South Anjuna",Goa,Goa,India,15.57016,73.74393,1.0,1,2,3,103,moderate,9909.13
+Condo in Vasco da Gama,entire_home,Serene Sea Facing 2BHK 5Mins from the Airport,Vasco da Gama,Goa,India,15.40231,73.82634,2.5,2,2,7,91,firm,7077.95
+Villa in Panaji,entire_home,4 bedroom villa  walking  distance from  beach,Panaji,Goa,India,15.48405,73.81177,4.0,4,5,12,94,moderate,15904.57
+Boutique hotel in Canacona,private_room,Beautifully designed sea-facing room,Canacona,Goa,India,14.999146,74.028725,1.0,1,1,2,5,firm,13323.199999999999
+Apartment in Anjuna,entire_home,Ciaret By CasaFlip: 1BHK Apt in Anjuna/Vagator,Anjuna,Goa,India,15.5844,73.73939,1.0,1,2,3,41,super_strict_30,6578.33
+Bungalow in Loutulim,entire_home,2 Bedroom Luxury Villa w Private Pool,Loutulim,Goa,India,15.33574,73.97796,2.0,2,2,4,27,strict-grace,22316.36
+Room in Baga,private_room,Serene Wooden Cottage at Baga,Baga,Goa,India,15.5590333938599,73.7531356811523,1.5,1,1,3,6,moderate,9992.4
+Room in Vagator,private_room,Twin Cabin with shared pool,Vagator,Goa,India,15.5983546678887,73.7561244517565,1.5,1,2,2,1,flexible,1998.48
+Place to stay in Mumbai,private_room,Private Studio w/garden/terrace/couples/WFH/Stay-n,Mumbai,Maharashtra,India,19.10393,72.85983,1.0,1,1,2,472,strict-grace,22982.52
+Room in Mumbai,private_room,"Stay at the Southern tip of Mumbai, MARINE DRIVE!",Mumbai,Maharashtra,India,18.93016,72.822,1.0,1,1,2,265,flexible,18236.129999999997
+Room in Mumbai,private_room,Luxury room & great view in hi-rise posh building,Mumbai,Maharashtra,India,19.003812335808245,72.83047844043706,1.5,1,1,2,17,firm,19984.8
+Condo in Mumbai,entire_home,Luxury 2BHK Apt in BKC & near US Consulate General,Mumbai,Maharashtra,India,19.06147,72.85792,2.0,2,2,8,38,flexible,46131.579999999994
+Apartment in Mumbai,entire_home,LUXURIOUS TWO BEDROOM APARTMENT IN COLABA,Mumbai,Maharashtra,India,18.91075,72.82193,2.5,2,3,6,132,moderate,71112.58
+Apartment in Mumbai,entire_home,Taj Homestay,Mumbai,Maharashtra,India,18.9242,72.83365,1.0,0,2,4,293,firm,24731.19
+Room in Mumbai,private_room,Private Spacious Suite Room in Colaba!,Mumbai,Maharashtra,India,18.91549,72.82457,1.0,1,3,4,90,moderate,26396.59
+Apartment in Mumbai,entire_home,Spacious apartment in  South Mumbai,Mumbai,Maharashtra,India,18.99196,72.85069,3.0,3,6,8,275,moderate,28478.34
+Apartment in Mumbai,entire_home,Sea view beautiful 2bhk Apartment in south mumbai.,Mumbai,Maharashtra,India,18.95446,72.81688,3.0,2,2,4,75,strict-grace,47297.36
+Apartment in Mumbai,entire_home,Homely & Spacious Studio in Colaba!,Mumbai,Maharashtra,India,18.91687,72.82473,1.0,0,2,4,75,moderate,35806.1
+Guesthouse in Mumbai,entire_home,"Cozy studio guest house at Delphi bungalow,Mumbai",Mumbai,Maharashtra,India,19.10468,72.86038,1.5,1,1,2,208,moderate,19984.8
+Apartment in Mumbai,entire_home,City Homes Hayat Apartment B,Mumbai,Maharashtra,India,19.064922347604735,72.88477800786495,2.0,2,3,8,13,moderate,33141.46
+"Apartment in Prabhadevi, Mumbai",entire_home,Homely 1BR in Prabhadevi 2mins from Siddhivinayak!,"Prabhadevi, Mumbai",Maharashtra,India,19.01513,72.82639,1.0,1,1,2,53,moderate,21983.28
+Apartment in Mumbai,entire_home,Sea View 3 Bedroom Residence in Bandra,Mumbai,Maharashtra,India,19.07013,72.82769,3.0,3,3,6,104,firm,91347.19
+Condo in Mumbai,entire_home,Luxurious 2BHK Apartment with exceptional sea view,Mumbai,Maharashtra,India,19.1504,72.79614,2.0,2,2,4,57,moderate,43883.29
+Room in Mumbai,private_room,Private Twin Room with attached Bath in Colaba!,Mumbai,Maharashtra,India,18.91496,72.82505,1.0,1,2,2,66,moderate,25230.809999999998
+Room in Mumbai,private_room,Tower Room at Marine Lines in Heritage Building,Mumbai,Maharashtra,India,18.94448,72.82635,1.5,1,1,2,239,strict-grace,13739.55
+Room in Mumbai,private_room,Ensuite Private Room in the heart of Colaba!,Mumbai,Maharashtra,India,18.91549,72.82406,1.0,1,1,2,60,moderate,18819.02
+Condo in Mumbai,entire_home,Luxury Mumbai Holiday Apartment - In Andheri,Mumbai,Maharashtra,India,19.09969,72.88507,2.0,2,4,5,127,strict-grace,28478.34
+Apartment in Mumbai,entire_home,Private Terrace-Rooftop-Chef- 3 Bedroom apartment,Mumbai,Maharashtra,India,19.10452,72.86291,3.0,3,3,9,17,moderate,75942.23999999999
+Place to stay in Mumbai,private_room,THE BOAT HOUSE (South Mumbai),Mumbai,Maharashtra,India,18.9636,72.80181,1.0,1,1,3,139,moderate,18819.02
+Place to stay in Mumbai,private_room,Nature lodge w/ balcony perfect for couples & work,Mumbai,Maharashtra,India,19.10385,72.85983,1.0,1,1,2,499,strict-grace,20984.039999999997
+Apartment in Mumbai,entire_home,Private Luxury Studio in the heart of Colaba!,Mumbai,Maharashtra,India,18.91517,72.82336,1.0,0,2,4,76,moderate,47547.17
+Apartment in Mumbai,entire_home,Radio Homestay,Mumbai,Maharashtra,India,18.92382,72.8323,1.0,1,2,4,98,firm,25813.699999999997
+Apartment in Mumbai,entire_home,"A duplex suite, with a scenic view. Unwind !",Mumbai,Maharashtra,India,19.151082983811627,72.79721695929766,2.0,2,1,6,10,flexible,32891.65
+Bed and breakfast in Mumbai,private_room,Budget Centrally Located Room,Mumbai,Maharashtra,India,18.96732,72.81852,1.0,1,2,2,30,moderate,12823.58
+Condo in Mumbai,entire_home,"""THE  Canvas""  Your home away from home",Mumbai,Maharashtra,India,19.11987,72.87925,2.0,3,4,6,41,strict-grace,36472.259999999995
+Condo in Mumbai,entire_home,Casa Azul,Mumbai,Maharashtra,India,19.05307,72.82882,1.0,1,1,2,15,strict-grace,28228.53
+Room in Mumbai,private_room,Traveller's Terrace Oasis,Mumbai,Maharashtra,India,18.97336,72.82353,2.5,1,1,1,303,strict-grace,21650.2
+Apartment in Mumbai,entire_home,"Mahim, Matunga West Fully Furnished Posh 1.5 BHK",Mumbai,Maharashtra,India,19.0287,72.8442,2.0,2,3,4,22,moderate,32808.38
+Condo in Mumbai,entire_home,"""Olive"" Private, Safe & Clean Family Apt",Mumbai,Maharashtra,India,18.95216,72.83471,1.0,1,1,2,16,firm,13323.199999999999
+Apartment in Mumbai,entire_home,"Haria's Happy Home
+located in Heart of Mumbai",Mumbai,Maharashtra,India,19.02768,72.85437,2.5,1,2,3,51,strict-grace,16071.109999999999
+Condo in Mumbai,entire_home,Sea link view flat right next to Hinduja Hospital,Mumbai,Maharashtra,India,19.03153,72.83746,3.0,2,2,8,16,strict-grace,51294.32
+Townhouse in Mumbai,entire_home,"Near kokilaben hospital, 2Rooms, 2 Bath & Kitchen",Mumbai,Maharashtra,India,19.13591,72.82368,2.0,2,4,8,41,moderate,16903.809999999998
+Apartment in Mumbai,entire_home,Shepherd’s Royal Tavern,Mumbai,Maharashtra,India,19.161121220835078,72.83465456217527,3.0,3,3,9,0,moderate,33141.46
+Apartment in Mumbai,entire_home,Malgudi Days Apartment - Andheri East,Mumbai,Maharashtra,India,19.10606,72.86189,2.0,2,3,5,3,moderate,33557.81
+Apartment in Mumbai,entire_home,Cosy and Comfortable Apartment- Prabhadevi,Mumbai,Maharashtra,India,19.01752,72.82283,2.0,2,2,4,40,firm,37887.85
+Apartment in Mumbai,entire_home,Lovely Home In Mumbai,Mumbai,Maharashtra,India,19.2108314,72.874741,4.5,2,2,6,6,strict-grace,41052.11
+Place to stay in Mumbai,private_room,2 Bedroom Apartment (Airport View),Mumbai,Maharashtra,India,19.08266633558425,72.84917709766884,2.0,2,3,6,0,moderate,31975.68
+Apartment in Mumbai,entire_home,Seafront haven in Bandra,Mumbai,Maharashtra,India,19.05273,72.82242,3.0,3,4,12,50,strict-grace,108417.54
+Room in Mumbai,private_room,Bed and breakfast near beach & famous landmarks,Mumbai,Maharashtra,India,18.95634,72.81386,1.5,1,1,1,50,flexible,17569.969999999998
+Apartment in Mumbai,entire_home,Elegant & Lux Entire 4BHK Apt BKC JioWorld Bandra,Mumbai,Maharashtra,India,19.0742,72.86754,5.0,4,4,9,3,strict-grace,131233.52
+Place to stay in Mumbai,private_room,Nice view - room  & wash near BKC - free breakfast,Mumbai,Maharashtra,India,19.07194,72.86604,1.0,1,1,3,16,flexible,20234.61
+Loft in Mumbai,entire_home,Terrace Studio Apartment-5min walk from Juhu beach,Mumbai,Maharashtra,India,19.10925,72.82627,1.0,1,1,2,103,strict-grace,47547.17
+Apartment in Mumbai,entire_home,excellent flat,Mumbai,Maharashtra,India,18.931101810343915,72.8267996930656,1.0,1,2,4,0,flexible,14239.17
+Home in Mumbai,entire_home,Stayhaven Atlantis 4BHK pvt pool,Mumbai,Maharashtra,India,19.25584,72.79325,5.0,4,6,16,27,strict-grace,103254.79999999999
+Apartment in Mumbai,entire_home,Splendid 3 BHK In Posh Area of Mumbai,Mumbai,Maharashtra,India,19.1248,72.89267,3.0,3,3,8,6,moderate,48712.95
+Room in Mumbai,private_room,Newly Modern 2 Bedrooms for travellers,Mumbai,Maharashtra,India,19.23982,72.86153,2.0,2,2,6,2,moderate,26063.51
+Condo in Mumbai,entire_home,Waves of Bliss~Sea View+Free Parking & Fast Wi-Fi,Mumbai,Maharashtra,India,19.13824,72.80695,2.0,2,3,6,8,strict-grace,51877.21
+Home in Mumbai,entire_home,1bhk ground floor near kokilaben hospital,Mumbai,Maharashtra,India,19.135743524683136,72.8231954947114,1.0,1,7,6,3,moderate,17653.239999999998
+Apartment in Mumbai,entire_home,1BHK in Hiranandani Powai - WABI SABI,Mumbai,Maharashtra,India,19.1249,72.90902,1.0,1,1,2,78,flexible,28728.149999999998
+Home in Mumbai,entire_home,"Luxury Peaceful Home, 2BHK Apartment, Mumbai",Mumbai,Maharashtra,India,19.0395,72.84376,2.0,2,2,4,39,strict-grace,39886.329999999994
+Condo in Mumbai,entire_home,"""Lemon"" Private, Safe & Clean Family Apt",Mumbai,Maharashtra,India,18.95002,72.8343,1.0,1,3,3,7,firm,18402.67
+Tiny home in Mumbai,entire_home,Premium Executive Studio Near Carter Road,Mumbai,Maharashtra,India,19.06774,72.82288,2.0,0,2,5,262,strict-grace,29977.199999999997
+Apartment in Mumbai,entire_home,Vibrant 2BHK Apt in BKC &near US Consulate General,Mumbai,Maharashtra,India,19.060336568638178,72.8631395962577,2.0,2,2,8,25,flexible,43133.86
+Apartment in Mumbai,entire_home,2 BHK - Old Styled apartment,Mumbai,Maharashtra,India,19.20246,72.87956,2.5,2,2,6,5,moderate,34723.59
+Apartment in Mumbai,entire_home,"1 BHK Apartment, furnished, Opp Grant Rd Station W",Mumbai,Maharashtra,India,18.96465,72.81557,1.0,1,3,4,63,strict-grace,19401.91
+Apartment in Mumbai,entire_home,A-Studio Apartment in Juhu - Wabi Sabi,Mumbai,Maharashtra,India,19.10992,72.82768,1.5,1,1,2,202,flexible,25480.62
+Apartment in Mumbai,entire_home,Sweet Nest,Mumbai,Maharashtra,India,19.15446,72.8854,2.0,2,2,2,154,flexible,13489.74
+Condo in Mumbai,entire_home,Chic 1BHK 7 Mins to Airport View King Bed WIFI,Mumbai,Maharashtra,India,19.10428,72.86107,2.0,1,2,5,97,moderate,23232.329999999998
+Bungalow in Mumbai,entire_home,Swish 4 BHK Bunglow near Infinty IT park,Mumbai,Maharashtra,India,19.17697,72.88336,4.5,4,5,12,2,moderate,64034.63
+Room in Mumbai,private_room,"Relax/Workation HomeAwayFrom 
+Home2-Nr Oberoi mall",Mumbai,Maharashtra,India,19.17542,72.86559,1.0,1,1,3,219,strict-grace,14822.06
+Room in Mumbai,private_room,Non AC  Private room at Dadar TT Circle,Mumbai,Maharashtra,India,19.01531,72.84955,1.0,1,2,2,68,firm,11990.88
+Apartment in Mumbai,entire_home,"2BHK in Bandra w/ AC, 55'TV Wifi",Mumbai,Maharashtra,India,19.054962187648314,72.83490995532773,2.0,2,3,4,0,flexible,57039.95
+Condo in Mumbai,entire_home,❤ Charming 1BHK 5 mins to BKC Wifi Netflix,Mumbai,Maharashtra,India,19.068666,72.876266,1.0,1,2,5,113,moderate,22566.17
+Apartment in Mumbai,entire_home,"House of Warmth!(near NESCO, IT park and Filmcity)",Mumbai,Maharashtra,India,19.17858,72.85772,1.5,1,3,6,101,firm,17569.969999999998
+Room in Mumbai,private_room,Modern bedroom. 5mins from Airport.,Mumbai,Maharashtra,India,19.07457,72.87825,1.0,1,1,2,139,flexible,12240.689999999999
+Apartment in Mumbai,entire_home,Spacious & Well Located Studio in Colaba!,Mumbai,Maharashtra,India,18.91618,72.82529,1.0,0,2,4,72,moderate,47547.17
+Villa in Bhayandar (West),entire_home,StayHaven Aqua with pvt theatre & pool in Bhy (w),Bhayandar (West),Maharashtra,India,19.264996389453557,72.80339738391008,4.5,3,4,16,51,strict-grace,72528.17
+Condo in Mumbai,entire_home,"Sea Spring ,  sunshine , sea breeze & greenery",Mumbai,Maharashtra,India,19.1479757000596,72.79596808621663,2.0,2,3,6,28,moderate,31059.71
+Apartment in Mumbai,entire_home,Cozy apartment for a peaceful stay,Mumbai,Maharashtra,India,19.171855922428975,72.93159325388105,1.0,1,2,3,10,flexible,8743.35
+Condo in Mumbai,entire_home,Mauli Nest,Mumbai,Maharashtra,India,19.187637,72.858884,2.0,2,3,6,13,strict-grace,30227.01
+Room in Mumbai,private_room,No-Frills Home-Stay in SouthMumbai.,Mumbai,Maharashtra,India,18.95926,72.82206,2.0,1,1,4,95,strict-grace,6911.41
+Room in Mumbai,private_room,Private ensuite room close to both Mumbai airports,Mumbai,Maharashtra,India,19.08891,72.84395,1.0,1,2,3,517,firm,13156.66
+Apartment in Mumbai,entire_home,Entire 1bhk aptmnt in heart of Bandra.,Mumbai,Maharashtra,India,19.053283035622897,72.82789941877127,1.5,1,1,3,0,flexible,26479.859999999997
+Condo in Mumbai,entire_home,The Dazzling Haven - Nr Oshiwara metro station,Mumbai,Maharashtra,India,19.14521,72.83315,2.0,1,1,3,93,moderate,20817.5
+Condo in Mumbai,entire_home,"""Mango"" Private, Safe & Clean Family Apt",Mumbai,Maharashtra,India,18.951028037711414,72.83398187301583,1.0,1,1,4,28,firm,18985.559999999998
+Bungalow in Mumbai,entire_home,Bungalow/ Service Apt/Event Hall/venue/Borivali E,Mumbai,Maharashtra,India,19.2309,72.86902,5.0,6,6,16,11,strict-grace,106752.14
+Apartment in Mumbai,entire_home,Lilou,Mumbai,Maharashtra,India,19.05201,72.82846,1.0,1,1,2,126,strict-grace,24814.46
+Apartment in Mumbai,entire_home,CITY HOMES ORCHID APARTMENT,Mumbai,Maharashtra,India,19.06227,72.88148,2.0,2,4,10,131,moderate,32225.489999999998
+Condo in Hyderabad,entire_home,1bhk penthouse banjara hills,Hyderabad,Telangana,India,17.42238,78.44495,1.0,1,1,2,49,moderate,21816.739999999998
+Cottage in Kanakamamidi,entire_home,Mangowoods Celebrity - Cottage with Private Pool,Kanakamamidi,Telangana,India,17.30599,78.24595,2.0,2,3,8,135,flexible,46298.119999999995
+Condo in Hyderabad,entire_home,Autumn Suites 2BHK in Madhapur,Hyderabad,Telangana,India,17.4461282,78.3911193,2.0,2,2,4,30,moderate,29727.39
+Villa in Hyderabad,entire_home,5 Star residential's for Festivity - Madhapur,Hyderabad,Telangana,India,17.44113,78.39719,4.0,3,3,10,162,flexible,45631.96
+Condo in Hyderabad,entire_home,BIRCH HAUS - Modern 2BHK Apartment,Hyderabad,Telangana,India,17.3699471181691,78.50584849036217,2.0,2,2,5,57,flexible,24481.379999999997
+Condo in Hyderabad,entire_home,"VIBE HAUS - New 3BHK on Road No. 12, Banjara Hills",Hyderabad,Telangana,India,17.41314994580267,78.43271618554128,3.0,3,3,7,25,flexible,37055.15
+Condo in Hyderabad,entire_home,TEAK HAUS - 2BHK Near Banjara Hills,Hyderabad,Telangana,India,17.39899,78.45748,3.0,2,2,5,54,flexible,29061.23
+Guest suite in Hyderabad,entire_home,"STUDIO HAUS - Functional, Ideal Space For Two",Hyderabad,Telangana,India,17.421261288557346,78.45742232303284,1.0,1,1,2,93,flexible,20484.42
+Condo in Kohtaguda,entire_home,Elegantly furnished spacious 3 BHK apartment,Kohtaguda,Telangana,India,17.45963,78.37186,3.5,3,4,7,82,flexible,32392.03
+Room in Secunderabad,private_room,Sevakunj 2,Secunderabad,Telangana,India,17.45837,78.49529,1.5,0,2,2,45,flexible,4746.389999999999
+Villa in Hyderabad,entire_home,MANGOWOODS DESTINY WITH PRIVATE POOL,Hyderabad,Telangana,India,17.290808,78.241783,2.5,2,2,10,72,flexible,72944.51999999999
+Shared room in Hyderabad,shared_room,Zostel Hyderabad | A bed in 8 Bed Mixed Dorm,Hyderabad,Telangana,India,17.438059,78.39256929999999,1.0,1,1,1,34,moderate,3497.3399999999997
+Condo in Hyderabad,entire_home,BRIGHT HAUS - 3BHK Near Banjara Hills,Hyderabad,Telangana,India,17.39972411145146,78.45936741982648,3.0,3,3,7,107,flexible,34806.86
+Guesthouse in Hyderabad,entire_home,BMS Guest House Exclusively Only For Families (1),Hyderabad,Telangana,India,17.406310571513767,78.47620005077492,2.0,2,2,5,66,flexible,19984.8
+Place to stay in Hyderabad,private_room,Private Room @Ashray Vintage Homes,Hyderabad,Telangana,India,17.3861234,78.3666676,1.5,1,1,2,29,flexible,8493.539999999999
+Condo in Nanakaramguda,entire_home,Lovely 2 BHK house with Great View Balcony,Nanakaramguda,Telangana,India,17.43263,78.33309,2.0,2,2,6,55,flexible,20984.039999999997
+Apartment in Hyderabad,entire_home,The Emerald - 2BHK in Banjara Hills,Hyderabad,Telangana,India,17.406530067654412,78.44568029717584,2.0,2,2,4,0,firm,30143.739999999998
+Condo in Hyderabad,entire_home,CLASSIC HAUS - Brand New 3BHK Apartment,Hyderabad,Telangana,India,17.36880647066139,78.50761816944039,2.5,3,3,7,35,flexible,30227.01
+Apartment in Hyderabad,entire_home,Sri's 2 BHK Penthouse,Hyderabad,Telangana,India,17.39249,78.42894,2.5,2,2,4,28,moderate,24731.19
+Guesthouse in Hyderabad,entire_home,BMS Guest House Exclusively Only For Families (2),Hyderabad,Telangana,India,17.429383792936974,78.45371715724468,2.0,2,2,5,3,flexible,25647.16
+Casa particular in Hyderabad,entire_home,"Lovely1BHK with jacuzzi, Home Theater, penthouse",Hyderabad,Telangana,India,17.47502,78.38693,1.0,1,2,4,147,strict-grace,22399.629999999997
+Condo in Hyderabad,entire_home,LIGHT HAUS - New 2BHK Apartment,Hyderabad,Telangana,India,17.369770386888966,78.50735742145292,2.0,2,2,5,80,flexible,24481.379999999997
+Bungalow in Madhapur,entire_home,1 Room & kitchen top floor with private entrance,Madhapur,Telangana,India,17.457223358098748,78.4275421500206,1.5,1,1,2,44,flexible,7411.03
+Home in Hyderabad,entire_home,Valley Vineyard Farm with pool Gachibowli,Hyderabad,Telangana,India,17.37596142182225,78.36060058325529,7.0,6,7,15,5,flexible,82187.48999999999
+Room in Hyderabad,private_room,Terrace Garden Room with a wooden deck,Hyderabad,Telangana,India,17.44392,78.45198,1.0,1,1,2,61,flexible,5662.36
+Apartment in Nanakaramguda,entire_home,Ochre : 1Bhk Humble Abode in Financial District,Nanakaramguda,Telangana,India,17.419490342231047,78.35161207677983,1.0,1,1,2,9,firm,12990.119999999999
+Room in Madhapur,private_room,Cozy 1-bedroom with two single beds in our home,Madhapur,Telangana,India,17.45024,78.38527,1.0,1,2,2,44,flexible,5579.09
+Apartment in Hyderabad,entire_home,Heart of the City (2Bhk AC bedrooms),Hyderabad,Telangana,India,17.40163,78.4598,2.5,2,2,4,120,moderate,13239.929999999998
+Farm stay in Hyderabad,entire_home,Euphoria Wooden Farmhouse with Private Pool,Hyderabad,Telangana,India,17.261782787965583,78.24559081345797,3.0,3,3,10,49,strict-grace,63368.469999999994
+Room in Secunderabad,private_room,Sevakunj 3,Secunderabad,Telangana,India,17.4565,78.49688,1.5,0,1,4,1,flexible,5162.74
+Apartment in Hyderabad,entire_home,Cozy Studio/1BHK with a View,Hyderabad,Telangana,India,17.4581,78.35444,1.0,1,1,2,3,moderate,12407.23
+Farm stay in Hyderabad,entire_home,OAK Woods Keertana French Wooden Privat Pool Villa,Hyderabad,Telangana,India,17.261779971939934,78.24473732936426,2.0,2,4,8,55,flexible,39886.329999999994
+Villa in Hyderabad ,entire_home,5StarResidential's-NearAIG-HitechCity4BHKA/CVilla,Hyderabad ,Telangana,India,17.43285,78.36982,4.0,4,4,12,86,flexible,40552.49
+Apartment in Hyderabad,entire_home,Luxurious 3BHK Furnished Serviced Apartment,Hyderabad,Telangana,India,17.40054,78.41055,3.0,3,3,12,113,strict-grace,24148.3
+Home in Hyderabad,entire_home,Tourist Friendly Home -3BHK AC @ Birla Mandir,Hyderabad,Telangana,India,17.405155967906236,78.47021792988586,3.0,3,3,8,14,flexible,25147.539999999997
+Home in Nallagandla,entire_home,Luxury 3 BHK House @ Hyderabad Financial District,Nallagandla,Telangana,India,17.45680790252199,78.3024627237435,3.0,3,3,6,0,firm,30476.82
+Apartment in Hyderabad,entire_home,"Veetil -3BHK A/C, Kukatpally, Hyderabad",Hyderabad,Telangana,India,17.4939468,78.4062623,3.0,3,3,8,1,flexible,24314.84
+Apartment in Hyderabad,entire_home,Serene: 1Bhk Humble Abode in Botanical Gardens,Hyderabad,Telangana,India,17.462626891341916,78.34933417596874,1.0,1,1,2,0,flexible,12573.769999999999
+Apartment in Hyderabad,entire_home,R R Next 2Bhk banjarahills hosted by Mohammed,Hyderabad,Telangana,India,17.4276854,78.435543,2.0,2,2,4,27,flexible,24481.379999999997
+Cottage in Kanakamamidi,entire_home,Oakwoods Regalia-Wooden cottage with Private Pool,Kanakamamidi,Telangana,India,17.26306,78.24519,2.0,2,4,10,50,flexible,49795.46
+Home in Secunderabad,entire_home,Villa/House: Theatre/Lawn/Gym/TT,Secunderabad,Telangana,India,17.487228099164962,78.56239283413211,3.5,4,4,10,4,moderate,38803.82
+Home in Hyderabad,entire_home,Home away from home,Hyderabad,Telangana,India,17.29308545557522,78.5655220176848,2.5,2,2,4,2,flexible,16320.92
+Home in Nalagandla,entire_home,Premium 3 BHK House @ Hyderabad Financial Dist.,Nalagandla,Telangana,India,17.456977469302227,78.30057285062372,3.0,3,3,6,4,firm,25480.62
+Home in Hyderabad,entire_home,A convenient home stay in city centre,Hyderabad,Telangana,India,17.45016,78.44064,3.0,3,3,8,138,flexible,23315.6
+Condo in Hyderabad,entire_home,Huge 3BHK Doctor Owned Flat in the Heart Hyderabad,Hyderabad,Telangana,India,17.40417,78.4647,3.5,3,3,8,34,moderate,13656.279999999999
+Farm stay in Hyderabad,entire_home,The Quail (35km from Gachibowli ORR),Hyderabad,Telangana,India,17.32048,78.3099,4.0,2,2,15,90,strict-grace,57622.84
+Room in Kondapur,private_room,Cozy Room in  Spacious Penthouse,Kondapur,Telangana,India,17.469164912583174,78.35559222847223,1.0,1,1,1,29,flexible,8826.619999999999
+Farm stay in Moinabad,entire_home,Mannat Farm House - Oakwoods,Moinabad,Telangana,India,17.327611063501905,78.27385673642195,3.0,3,3,12,5,strict-grace,67365.43
+Home in Hyderabad,entire_home,Family&PetFriendly 5BHK With Jacuzzi @BanjaraHills,Hyderabad,Telangana,India,17.417960131210307,78.43260541534426,5.5,5,7,10,34,flexible,57622.84
+Condo in Hyderabad,entire_home,NAVY HAUS - New 2-Bedroom Apartment,Hyderabad,Telangana,India,17.37017638650541,78.50811175596125,2.0,2,2,5,44,flexible,24481.379999999997
+Home in Hyderabad,entire_home,"PentHouse -2BHK A/C SR Nagar, Hyderabad",Hyderabad,Telangana,India,17.45046,78.44086,3.0,2,2,5,101,flexible,23815.219999999998
+Apartment in Kondapur,entire_home,Modern Cozy Getaway,Kondapur,Telangana,India,17.46261,78.34265,2.0,3,3,6,13,flexible,35223.21
+Apartment in Hyderabad,entire_home,Luxurious Penthouse with terrace garden and patio,Hyderabad,Telangana,India,17.34363075854549,78.44866689294577,2.0,3,3,10,39,moderate,38803.82
+Room in Hyderabad,private_room,Cozy Private Room in a 3bhk| Financial District,Hyderabad,Telangana,India,17.43977,78.34897,1.0,1,1,1,20,flexible,12573.769999999999
+Apartment in Madhapur,entire_home,Modern studio flat with kitchen and portico,Madhapur,Telangana,India,17.45057,78.39994,1.5,1,2,2,21,flexible,13656.279999999999
+Apartment in Dilsukhnagar,entire_home,Lovely private Penthouse for family or friends!,Dilsukhnagar,Telangana,India,17.367502,78.519783,2.5,2,2,5,20,flexible,16154.38
+Farm stay in Hyderabad,entire_home,Mangowoods Mayura,Hyderabad,Telangana,India,17.29107,78.24542,3.5,3,7,15,32,flexible,56290.52
+Villa in Hyderabad,entire_home,Willow - The Villa,Hyderabad,Telangana,India,17.27802,78.36638,5.5,3,3,6,28,flexible,37721.31
+Home in Secunderabad,entire_home,Vicsheil Palms - A 3 BHK Family Unit with kitchen,Secunderabad,Telangana,India,17.48835,78.54823,3.0,3,6,6,66,firm,20567.69
+Place to stay in Hyderabad,private_room,1 BHK Vintage Comfort @ Ashray Vintage Homes,Hyderabad,Telangana,India,17.3861234,78.3666676,1.0,1,1,2,14,flexible,13239.929999999998
+Condo in Hyderabad,entire_home,POP HAUS - 3BHK Near Banjara Hills,Hyderabad,Telangana,India,17.400190017260055,78.4596607148231,3.0,3,3,7,65,flexible,34806.86
+Vacation home in Hyderabad,entire_home,Chill Place:3BHK AC Retro House @FinancialDistrict,Hyderabad,Telangana,India,17.43115,78.33303,3.0,3,3,8,33,flexible,24398.11
+Room in Nanakaramguda,private_room,"1 guest budget friendly, Wipro circle Nankramguda",Nanakaramguda,Telangana,India,17.41849,78.34305,1.0,1,1,1,22,strict-grace,9992.4
+Cabin in Hyderabad,entire_home,Spring Day-Private Wooden Villa,Hyderabad,Telangana,India,17.261888512471447,78.24562739880824,2.0,2,2,8,12,moderate,42800.78
+Apartment in Hyderabad,entire_home,Freddies Nest 2bhk banjarahills Hosted by mohammed,Hyderabad,Telangana,India,17.41349,78.44465,2.5,2,3,4,8,flexible,22233.09
+Apartment in Hyderabad,entire_home,Elegant and Cosy 2BR apartment,Hyderabad,Telangana,India,17.46316,78.34157,2.0,2,2,6,108,moderate,22316.36
+Home in Secunderabad,entire_home,Independent home in Secunderabad,Secunderabad,Telangana,India,17.502700261010265,78.55540654335393,3.0,3,3,8,5,flexible,34223.97
+Home in Hyderabad,entire_home,"4-BHK, Pent House, Banjara Hills, Stone Home",Hyderabad,Telangana,India,17.41676,78.44099,4.0,4,4,8,49,firm,50211.81
+Home in Hyderabad,entire_home,1 Bhk house at 1st floor with ac,Hyderabad,Telangana,India,17.4466772,78.4585499,1.0,1,1,3,38,flexible,6994.679999999999
+Condo in Hyderabad,entire_home,URBAN HAUS - New 2-Bedroom Apartment,Hyderabad,Telangana,India,17.36952509501085,78.50806549191908,2.0,2,2,5,46,flexible,24481.379999999997
+Farm stay in Kanakamamidi,entire_home,Mangowoods Serenity,Kanakamamidi,Telangana,India,17.29602,78.24419,2.0,2,7,12,71,flexible,52293.56
+Apartment in Hyderabad,entire_home,1BHK Service Apartment with Balcony in Hyderabad,Hyderabad,Telangana,India,17.432376076513236,78.3185033076447,1.0,1,1,3,8,moderate,13239.929999999998
+Apartment in Hyderabad,entire_home,Mystical Moroccan Haven,Hyderabad,Telangana,India,17.44087881171466,78.32488778845932,1.0,1,1,3,9,flexible,12573.769999999999
+Room in Hyderabad,private_room,AC Room Financial District Gachibowli,Hyderabad,Telangana,India,17.43478,78.33248,1.0,1,1,2,6,flexible,6994.679999999999
+Apartment in Hyderabad,entire_home,Lovely 3 bedroom Penthouse with lake view.,Hyderabad,Telangana,India,17.34353056778198,78.44878513756377,2.0,3,3,10,56,moderate,33641.08
+Room in Hyderabad,private_room,IRIS AT NEST - Luxurious Double Twin Room,Hyderabad,Telangana,India,17.45166,78.38764,1.0,1,1,2,18,flexible,7244.49
+Apartment in Kondapur,entire_home,Lovely 2 Bedroom unit designed to Perfection!,Kondapur,Telangana,India,17.47788,78.34812,2.0,2,2,4,12,firm,21400.39
+Farm stay in Hyderabad,entire_home,Aira Farm Retreat,Hyderabad,Telangana,India,17.27782,78.56971,2.0,1,2,3,57,flexible,24731.19
+Room in Hyderabad,private_room,"Nankramguda, 2 guest budget frdly, Wipro circle",Hyderabad,Telangana,India,17.423903236199873,78.34738701581955,1.0,1,1,2,25,strict-grace,10492.019999999999
+Home in Hyderabad,entire_home,2BHK house near KPHB Hyderabad,Hyderabad,Telangana,India,17.49517,78.38965,1.5,2,3,5,17,flexible,16570.73
+"Guesthouse in Indiranagar, Bengaluru",entire_home,Jacob's Inn : Rs 5675 (4500+635 guest fee)+Taxes,"Indiranagar, Bengaluru",Karnataka,India,12.97357,77.636,2.0,2,2,4,106,flexible,25647.16
+Apartment in Bengaluru,entire_home,Silver Springs Residence 2,Bengaluru,Karnataka,India,13.01774,77.62922,2.0,2,2,4,55,firm,12990.119999999999
+Condo in Bengaluru,entire_home,Stylish 2 bedroom apartment with spacious outdoors,Bengaluru,Karnataka,India,12.915663,77.667435,2.0,2,2,4,34,moderate,49628.92
+Place to stay in Bengaluru,entire_home,Altus Penthouse,Bengaluru,Karnataka,India,12.92587,77.58395,4.0,3,4,6,56,moderate,34473.78
+Villa in Bengaluru,entire_home,Modern 4-bedroom villa with park view,Bengaluru,Karnataka,India,13.04201,77.55923,3.5,4,4,8,59,moderate,42301.159999999996
+Tiny home in Channenahalli,entire_home,Completely private penthouse,Channenahalli,Karnataka,India,12.972485,77.436762,1.0,1,1,3,24,flexible,30060.469999999998
+Apartment in Bengaluru,entire_home,"Kanchan Homes  FF-6  - ""A home away from home"".",Bengaluru,Karnataka,India,12.98264,77.6015,2.0,2,3,4,108,flexible,25647.16
+Apartment in Bengaluru,entire_home,"BluO Studio1 Koramangala - Kitchen, Balcony",Bengaluru,Karnataka,India,12.936295448205835,77.61553564163378,1.0,0,1,2,14,firm,16903.809999999998
+Bed and breakfast in Bengaluru,private_room,Traveler Accommodation - Red Key Bangalore Airport,Bengaluru,Karnataka,India,13.19745,77.70756,8.0,8,8,16,20,flexible,7161.219999999999
+Home in Bengaluru,entire_home,ELITE CAPACIOUS 2BDRM with FE KITCHN WRKSTN & WiFi,Bengaluru,Karnataka,India,12.9963744,77.6594131,2.0,2,2,4,25,flexible,13239.929999999998
+Apartment in Bengaluru,entire_home,2 Bhk with huge/ private terrace,Bengaluru,Karnataka,India,12.9165705,77.7377792,2.0,2,2,4,18,moderate,19318.64
+Bed and breakfast in Bengaluru,private_room,Heritage English house in the heart of Bangalore,Bengaluru,Karnataka,India,12.96369,77.60328,1.0,1,1,2,68,flexible,15987.84
+Hotel in Bengaluru,private_room,Purple Cloud Airport Hotel,Bengaluru,Karnataka,India,13.19084,77.64569,1.5,1,1,2,23,flexible,18902.29
+Apartment in Bengaluru,entire_home,Prashanthi Homes - Cozy Retreat,Bengaluru,Karnataka,India,12.980179885408438,77.53717763287058,2.0,2,3,6,9,flexible,12323.96
+Earthen home in Bengaluru,entire_home,Secluded 3bhk Earthhouse w/BBQ. 5mins->Indiranagar,Bengaluru,Karnataka,India,12.99651,77.65686,3.5,3,3,6,129,flexible,24398.11
+Home in Bengaluru,entire_home,Cosy Duplex in Central BLR,Bengaluru,Karnataka,India,13.002567225290562,77.60005147619628,2.0,4,4,6,30,flexible,28061.989999999998
+Condo in Bengaluru,entire_home,"HomeOffice,King-Suite,Whitefield, ITPL,300mbps net",Bengaluru,Karnataka,India,13.01916,77.76437,3.0,3,3,6,48,flexible,21650.2
+Apartment in Bengaluru,entire_home,Kaurya Studio,Bengaluru,Karnataka,India,12.97865,77.63609,1.5,1,2,2,156,moderate,18569.21
+Apartment in Bengaluru,entire_home,2 Bedroom Apartment in central location,Bengaluru,Karnataka,India,12.99488,77.61646,2.0,2,2,6,58,moderate,15987.84
+Apartment in Bengaluru,entire_home,2Bhk Private Meadows by Harshh,Bengaluru,Karnataka,India,12.921646568841037,77.51437141321327,2.0,2,2,5,7,flexible,6245.25
+Villa in Byatarayanapura CMC and OG Part,entire_home,Well furnished 2.5bhk house at Hebbal Kempapura,Byatarayanapura CMC and OG Part,Karnataka,India,13.05387,77.60004,2.5,3,3,6,10,firm,10825.1
+Apartment in Bengaluru,entire_home,"Kanchan Homes FF-5 - "" A home",Bengaluru,Karnataka,India,12.9823169,77.6005498,2.0,2,3,4,19,flexible,24481.379999999997
+Condo in Bengaluru,entire_home,Luxurious 3 BHK Apartment,Bengaluru,Karnataka,India,13.061629990737966,77.57650553010257,3.0,3,3,10,17,flexible,28644.879999999997
+Apartment in Bengaluru,entire_home,"BluO Studio2 Koramangala - Kitchen, Balcony",Bengaluru,Karnataka,India,12.936159521559468,77.61481662117919,1.0,0,1,2,6,firm,16903.809999999998
+Apartment in Bengaluru,entire_home,"Luxurious 2bhk City View, premium interiors",Bengaluru,Karnataka,India,13.08255,77.63945,2.0,2,2,6,15,moderate,22815.98
+Apartment in Bengaluru,entire_home,South Park - 2BHK near Metro Station (Jayanagar),Bengaluru,Karnataka,India,12.930316,77.576675,2.0,2,2,5,55,firm,16903.809999999998
+Apartment in Bengaluru,entire_home,Silver Springs Residence,Bengaluru,Karnataka,India,13.01932,77.62874,2.0,2,2,4,72,firm,14239.17
+Home in Bengaluru,entire_home,Nice and Cozy - 2 Bedroom house,Bengaluru,Karnataka,India,12.9354,77.50682,3.0,2,2,3,64,moderate,10825.1
+Apartment in Bengaluru,entire_home,1 BHK Apartment at Yelahanka - Casa Oro,Bengaluru,Karnataka,India,13.09768,77.58533,1.0,1,1,2,12,flexible,9659.32
+Apartment in Bengaluru,entire_home,Pristine Escape 3 BHK Apartment in Kalyan Nagar,Bengaluru,Karnataka,India,13.020572927169,77.63817782144471,3.0,3,3,6,0,moderate,39969.6
+Guesthouse in Bangalore,entire_home,Lovely 2 room oasis in the heart of Bangalore,Bangalore,Karnataka,India,12.99335,77.58465,2.0,2,4,4,62,moderate,14239.17
+Vacation home in Kasavanahalli,entire_home,2BHK Duplex Penthouse w Pool+Bar,Kasavanahalli,Karnataka,India,12.890854156390626,77.6735391953537,2.5,2,2,5,8,strict-grace,31226.25
+Condo in Bengaluru,entire_home,1 bedroom apartment in luxury gated community,Bengaluru,Karnataka,India,12.853426,77.678322,1.0,1,2,2,3,moderate,13989.359999999999
+Home in Bengaluru,entire_home,A cozy family house-Happinest,Bengaluru,Karnataka,India,13.064856938418234,77.58509818464518,1.0,2,2,5,0,firm,11407.99
+Condo in Bengaluru,entire_home,Keerthi Service Apartment 2 BHK Flat @ HSR Layout,Bengaluru,Karnataka,India,12.911281,77.644295,2.0,2,2,4,29,flexible,14239.17
+Apartment in Bengaluru,entire_home,Pvt 2 bedroom flat in Bangalore,Bengaluru,Karnataka,India,12.9398215,77.5345129,2.0,2,4,4,13,strict-grace,7993.92
+Cottage in Bengaluru,entire_home,Sampada Homestay - Full 2BHK - 1st & 2nd Floor,Bengaluru,Karnataka,India,12.98735,77.54577,2.0,2,2,8,42,strict-grace,15738.029999999999
+Apartment in BANGALORE ,entire_home,HAVEN HOMES FOR HYGIENE N PEACEFUL STAY,BANGALORE ,Karnataka,India,13.18292,77.60444,2.0,2,4,4,12,flexible,13989.359999999999
+Place to stay in Bangalore,private_room,SPIC AND SPAN LUXURY VILLA EXPERIENCE IT 2 BELIEVE,Bangalore,Karnataka,India,13.02603679709907,77.58855900190427,2.0,2,3,4,43,moderate,12990.119999999999
+Room in Bengaluru,private_room,City Center Private room,Bengaluru,Karnataka,India,12.9587415,77.565907,1.5,1,1,2,0,strict-grace,9159.699999999999
+Condo in Bengaluru,entire_home,206 Vandana Enclave,Bengaluru,Karnataka,India,12.918901016825647,77.63636825035398,3.0,3,4,6,20,moderate,12657.039999999999
+Apartment in Bengaluru,entire_home,2BHK Premium Apartment with Kitchen Facilities,Bengaluru,Karnataka,India,12.892208466417813,77.5962782073423,2.0,2,2,6,33,flexible,19485.18
+Condo in Bengaluru,entire_home,"2BHK Flat(1400sft) 3Balcony sitout, <16 Mane>",Bengaluru,Karnataka,India,13.00705,77.56473,2.0,2,4,6,29,moderate,34890.13
+Home in Bengaluru,entire_home,Amrutha Guest House with Lawn,Bengaluru,Karnataka,India,13.11693,77.56226,3.5,4,0,12,8,moderate,80522.09
+Farm stay in Bengaluru,entire_home,"""Ayana Farm - a secret getaway""",Bengaluru,Karnataka,India,12.859125795571144,77.45846323116055,5.0,4,6,14,2,flexible,54292.04
+Apartment in Bengaluru,entire_home,Luxury 3 Bedroom Apartment Indira Nagar,Bengaluru,Karnataka,India,12.97657,77.63959,3.0,3,4,6,4,flexible,35972.64
+Condo in Bengaluru,entire_home,Modern Home reasonably close to Intl. Airport,Bengaluru,Karnataka,India,13.1358,77.56877,2.0,3,3,6,10,strict-grace,31892.41
+Apartment in Bengaluru,entire_home,2BHK Whitefield ITPL/PSN/Metro/KTPO,Bengaluru,Karnataka,India,12.98579,77.73448,2.0,2,3,6,79,moderate,18985.559999999998
+Condo in Bengaluru,entire_home,2550 sq ft 3 BHK luxurious home,Bengaluru,Karnataka,India,13.061527911301855,77.57653456181288,3.0,3,3,10,6,flexible,27978.719999999998
+Condo in Bengaluru,entire_home,Luxurious 2 bedroom 1 study apartment near Manayta,Bengaluru,Karnataka,India,13.083794,77.640022,2.0,2,2,4,40,moderate,27395.829999999998
+Farm stay in Hadripura,entire_home,Farm stay in Bengaluru Rural,Hadripura,Karnataka,India,13.25435,77.4311,6.0,5,15,15,14,firm,86767.34
+Home in  Bangalore North,entire_home,Pink House Villa, Bangalore North,Karnataka,India,13.165039,77.675884,3.0,3,4,6,0,flexible,25647.16
+Home in Bengaluru,entire_home,Cheerful 2 bhk all for u. Peeking into the lake,Bengaluru,Karnataka,India,12.82919,77.66367,2.0,2,2,4,9,moderate,10492.019999999999
+Home in Bengaluru,entire_home,"Ghar-2 Bedroom,Hall, kitchen-fully furnished house",Bengaluru,Karnataka,India,13.01488,77.73508,2.5,2,2,6,30,flexible,8826.619999999999
+Home in Bengaluru,entire_home,2BR home by the lake,Bengaluru,Karnataka,India,13.0408,77.51181,1.5,2,2,4,74,moderate,11324.72
+Apartment in Bengaluru,entire_home,RashiBnK:-Entire 1BHK apartments in Bellandur /WFH,Bengaluru,Karnataka,India,12.93077,77.68422,1.0,1,1,3,24,strict-grace,11990.88
+Apartment in Bengaluru,entire_home,1 BHK Penthouse apartment in Central location,Bengaluru,Karnataka,India,12.99486,77.61635,1.0,1,1,3,84,moderate,9159.699999999999
+Apartment in Bengaluru,entire_home,2 Bhk at Jayanagar 7th block near metro station,Bengaluru,Karnataka,India,12.92976,77.57577,2.0,2,3,5,49,firm,17320.16
+Farm stay in Bengaluru,entire_home,Iora farmhouse,Bengaluru,Karnataka,India,13.14916,77.56347,4.5,3,12,10,19,flexible,79855.93
+Bungalow in Bengaluru,entire_home,Oberhome Independent Villa-Outdoor Jaccuzi & Grill,Bengaluru,Karnataka,India,13.09534,77.53278,4.0,4,4,8,254,moderate,43800.02
+Apartment in Bengaluru,entire_home,Modern Oasis 2 BHK in Gunjur,Bengaluru,Karnataka,India,12.924167053298971,77.72962255819702,2.0,2,3,4,0,flexible,11907.609999999999
+Apartment in Bengaluru,entire_home,City Centre 3BHK Apartment Big Kitchen AC Wifi TV,Bengaluru,Karnataka,India,12.99408,77.61647,3.5,3,5,12,82,moderate,26230.05
+Room in Bengaluru,private_room,Cottage-like room in the garden. Opp UB city!!!,Bengaluru,Karnataka,India,12.97147,77.59718,1.0,1,1,2,31,flexible,21067.309999999998
+Apartment in Ramanayakanahalli,entire_home,Budget Friendly 2BHK - Flat No. 302,Ramanayakanahalli,Karnataka,India,12.909045813931979,77.75258738547564,2.0,2,2,5,3,flexible,5246.009999999999
+Apartment in Bengaluru,entire_home,The Varghese's Home,Bengaluru,Karnataka,India,13.02491,77.64803,3.0,3,2,6,13,strict-grace,31392.789999999997
+Farm stay in Bengaluru Urban,entire_home,Kailash by kolalu - Farm villa-private pool,Bengaluru Urban,Karnataka,India,12.759721384219134,77.47917272150517,4.0,4,5,12,0,moderate,68531.20999999999
+Home in Bengaluru,entire_home,"A duplex house in the heart of BLR, Best in Town",Bengaluru,Karnataka,India,13.000494224402203,77.5571382838107,3.0,3,3,7,8,flexible,23981.76
+Place to stay in Bengaluru,private_room,1 bedroom 10 minutes from center,Bengaluru,Karnataka,India,13.00307,77.63462,1.5,1,1,1,54,flexible,4746.389999999999
+Hotel in Bengaluru Urban,private_room,Ideal Stay for Airport Transit,Bengaluru Urban,Karnataka,India,13.181074674343053,77.6758923009038,1.0,1,1,2,26,flexible,5662.36
+Bungalow in Bengaluru,entire_home,Comfortable Central Colonial Bungalow,Bengaluru,Karnataka,India,12.93137,77.62812,3.0,3,4,7,32,moderate,38803.82
+Apartment in Bengaluru,entire_home,Tastefully set 3BHK serviced apt in Yelahanka NewT,Bengaluru,Karnataka,India,13.104497780429238,77.58044898629151,3.0,3,4,6,12,flexible,49129.299999999996
+Home in Bengaluru,entire_home,Fully Furnished 1bhk in most sought out location.,Bengaluru,Karnataka,India,13.02056,77.63553,3.0,1,3,4,31,flexible,8077.19
+Home in Bengaluru,entire_home,Luxurious & Quiet Home in Rajarajeshwari Nagar,Bengaluru,Karnataka,India,12.93119,77.51665,3.0,3,3,8,180,strict-grace,21566.93
+Home in Bengaluru,entire_home,Ixora Raintree,Bengaluru,Karnataka,India,12.97377,77.64344,2.0,1,3,3,89,moderate,16820.54
+Apartment in Bengaluru,entire_home,102 - Bengaluru Two Bedroom Home,Bengaluru,Karnataka,India,12.88626,77.55732,2.0,2,2,4,103,moderate,10492.019999999999
+Home in Bengaluru,entire_home,Charming Apt with Cute Terrace,Bengaluru,Karnataka,India,12.990067886762082,77.61804187940672,3.0,3,3,6,8,flexible,30809.899999999998
+Apartment in Bengaluru,entire_home,SmartStay Luxury Duplex 4BHK Flat Central BLR,Bengaluru,Karnataka,India,12.97576,77.59835,4.0,4,6,11,36,moderate,56623.6
+Villa in Bengaluru,entire_home,Villa in Prestige North West County  Bangalore,Bengaluru,Karnataka,India,13.179749,77.557785,3.5,3,4,8,115,flexible,69114.09999999999
+Home in Bengaluru,entire_home,"Home away from home in the heart of the city,3 BHK",Bengaluru,Karnataka,India,12.93583,77.63,2.5,3,0,6,8,flexible,17403.43
+Room in Bengaluru,private_room,"Tuscany: A beautiful room in a villa, Bangalore",Bengaluru,Karnataka,India,12.92897,77.62988,1.0,1,2,4,69,firm,18236.129999999997
