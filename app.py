@@ -8,6 +8,8 @@ tab1, tab2 = st.tabs(["EDA", "Prediction"])
 
 df = pd.read_csv("final-data-airbnb copy.csv")
 
+st.title("AirBnB Price and Listings Prediction")
+
 
 mapbox_access_token = "pk.eyJ1IjoibmVoYWwtMzIzIiwiYSI6ImNsb2cwbnR3NDB2NjgyaW4wZXBnNWZyZnMifQ.L3vsORd2xT0upcJT9VtXAA"
 px.set_mapbox_access_token(mapbox_access_token)
