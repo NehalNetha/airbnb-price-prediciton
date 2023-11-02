@@ -41,12 +41,11 @@ model = LinearRegression()
 model.fit(X_train, y_train)
 
 
-with tab1 and tab2:
-    st.title("AirBnB Price and Listings Prediction")
-
 
 
 with tab1:
+    st.title("AirBnB Price and Listings Prediction")
+
     st.subheader("Location of rooms")
     st.text("Plottting Longitudes and Latitues on the map, color saturation for pricing and size of the dots for the total rooms")
     st.plotly_chart(fig_map, theme="streamlit", use_container_width=True)
@@ -88,6 +87,8 @@ model_price.fit(X_train_pr, y_train_pr)
 
 
 with tab2:
+    st.title("AirBnB Price and Listings Prediction")
+
     st.title("1. Get better price for your listings")
     st.subheader("If you want to start listing your properties on the airbnb, and want to know what things get that particular pricing?, you can do that by entering the price that you want below")
 
