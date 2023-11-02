@@ -8,7 +8,6 @@ tab1, tab2 = st.tabs(["EDA", "Prediction"])
 
 df = pd.read_csv("final-data-airbnb copy.csv")
 
-st.title("AirBnB Price and Listings Prediction")
 
 
 mapbox_access_token = "pk.eyJ1IjoibmVoYWwtMzIzIiwiYSI6ImNsb2cwbnR3NDB2NjgyaW4wZXBnNWZyZnMifQ.L3vsORd2xT0upcJT9VtXAA"
@@ -41,6 +40,9 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 model = LinearRegression()
 model.fit(X_train, y_train)
 
+
+with tab1 and tab2:
+    st.title("AirBnB Price and Listings Prediction")
 
 
 
