@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 
 tab1, tab2 = st.tabs(["EDA", "Prediction"])
 
-df = pd.read_csv("/Users/nehal/airbnb-eda/final-data-airbnb copy.csv")
+df = pd.read_csv("final-data-airbnb copy.csv")
 
 
 mapbox_access_token = "pk.eyJ1IjoibmVoYWwtMzIzIiwiYSI6ImNsb2cwbnR3NDB2NjgyaW4wZXBnNWZyZnMifQ.L3vsORd2xT0upcJT9VtXAA"
